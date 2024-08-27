@@ -3,9 +3,9 @@ from unittest.mock import patch
 from io import StringIO
 import re
 import requests
-from mini_arcade import m8b  
-from mini_arcade import rps
-from mini_arcade import djm
+from project import m8b  
+from project import rps
+from project import djm
 
 #code to remove the colors from the output
 def remove_ansi_escape_sequences(text):
@@ -72,7 +72,7 @@ class TestMiniArcade(unittest.TestCase):
         
     def test_djm(self):
         # Simulate a network exception
-        with patch('mini_arcade.requests.get') as mock_requests_get:
+        with patch('project.requests.get') as mock_requests_get:
             mock_requests_get.side_effect = requests.exceptions.RequestException("Network error")
             
             with patch('sys.stdout', new_callable=StringIO) as mock_stdout:
