@@ -1,4 +1,4 @@
-# Mini_Arcade (A CS50 Python Project)
+# Mini Arcade (A CS50 Python Project)
 Welcome to **Mini Arcade**, a Python project featuring a collection of three simple and fun games. This project demonstrates basic game development and interaction using Python.
 
 ## Table of Contents
@@ -7,8 +7,9 @@ Welcome to **Mini Arcade**, a Python project featuring a collection of three sim
 3. [Usage](#usage)
 4. [Dependencies](#dependencies)
 5. [Contributing](#contributing)
-6. [License](#license)
-
+6. [Acknowledgments](#acknowledgments)
+7. [License](#license)
+   
 ## Overview
 
 Mini Arcade is a collection of three fun interactive games.
@@ -60,9 +61,36 @@ The project requires the following Python packages:
 
 If you'd like to contribute to Mini Arcade, please fork the repository and create a pull request with your changes. Contributions are welcome!
 
+
+## Acknowledgments
+
+- [icanhazdadjoke](https://icanhazdadjoke.com/): For providing the API used to fetch dad jokes in the Dad Joke Machine.
+- [David Malan](https://www.linkedin.com/in/malan/): For being an awesome teacher.
+- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): For making the course available.
+
 ## License
 
-...
+MIT License
+
+Copyright (c) 2024 Jay Shukla
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 Enjoy your games! 🎮
 
