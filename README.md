@@ -24,12 +24,12 @@ To get started with Mini Arcade, you need to have Python installed on your syste
 
    run in git bash:
    ```
-   git clone https://github.com/JayShukla8/mini-arcade.git
+   git clone https://github.com/JayShukla8/mini_arcade.git
    ```
 
 3. **Navigate to project directory:**
    ```
-   cd mini-arcade
+   cd mini_arcade
    ```
 
 4. **Install the required dependencies:**
