@@ -1,4 +1,5 @@
 # Mini Arcade (A CS50 Python Project)
+# Video : <https://youtu.be/XmTqhTexR7k>
 Welcome to **Mini Arcade**, a Python project featuring a collection of three simple and fun games. This project demonstrates basic game development and interaction using Python.
 
 ## Table of Contents
